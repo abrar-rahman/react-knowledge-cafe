@@ -1,0 +1,52 @@
+[
+  {
+    "id": 12345,
+    "cover": "https://picsum.photos/600/400/?image=100",
+    "title": "The Mystical Mountainscape",
+    "author": "Aron Jones",
+    "author_img": "https://picsum.photos/id/200/300/?grayscale",
+    "posted_date": "2024-03-12",
+    "reading_time": 10,
+    "hashtags": "#mountains #landscape #art #travel #nature"
+  },
+  {
+    "id": 54321,
+    "cover": "https://picsum.photos/600/400/?image=200",
+    "title": "Neon Symphony: A Night in Tokyo",
+    "author": "Isabella Clark",
+    "author_img": "https://picsum.photos/id/237/300/?blur=2",
+    "posted_date": "2024-03-10",
+    "reading_time": 7,
+    "hashtags": "#tokyo #cityscape #nightlife #photography #travel"
+  },
+  {
+    "id": 87654,
+    "cover": "https://picsum.photos/600/400/?image=300",
+    "title": "The Secret Language of Flowers",
+    "author": "David Green",
+    "author_img": "https://picsum.photos/id/870/300",
+    "posted_date": "2024-03-08",
+    "reading_time": 15,
+    "hashtags": "#flowers #gardening #nature #science #beauty"
+  },
+  {
+    "id": 21987,
+    "cover": "https://picsum.photos/600/400/?image=400",
+    "title": "A Culinary Adventure: Exploring Bangladeshi Cuisine",
+    "author": "Sarah Khan",
+    "author_img": "https://picsum.photos/id/1025/300",
+    "posted_date": "2024-03-06",
+    "reading_time": 12,
+    "hashtags": "#bangladesh #food #travel #cooking #delicious"
+  },
+  {
+    "id": 96325,
+    "cover": "https://picsum.photos/600/400/?image=500",
+    "title": "Unveiling the Mysteries of Machu Picchu",
+    "author": "Liam Davies",
+    "author_img": "https://picsum.photos/id/1074/300",
+    "posted_date": "2024-03-04",
+    "reading_time": 20,
+    "hashtags": "#machupicchu #history #travel #peru #archaeology"
+  }
+]
